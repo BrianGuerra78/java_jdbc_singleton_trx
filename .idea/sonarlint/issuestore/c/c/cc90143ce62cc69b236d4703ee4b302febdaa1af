@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÍóûÅ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(ÈÒÔ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯Òøò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·²±»
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8¶¼ÂÓÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€Ó Ãÿÿÿÿÿ8ºÃÃÓÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8üÀÄÓÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æìæêùÿÿÿÿ8äÿÆÓÊ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8ÍóÇÓÊ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù³”8…ˆÈÓÊ0
+V	java:S125 "<This block of commented-out lines of code should be removed.(Î¡¨øøÿÿÿÿ
